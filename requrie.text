@@ -1,0 +1,9 @@
+Installation required
+
+comtypes
+pypiwin32
+pyttsx3
+webbrowser
+requests
+gdata
+speech_recognition
